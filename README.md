@@ -99,3 +99,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 *Full documentation, API key setup guide, and feature demos at [opeclaw.info](https://opeclaw.info)*
+
+## Related Projects
+- [QClaw AI](https://github.com/mojinmopin-art/qclaw-ai-assistant) - AI chat assistant for WeChat and QQ
+- [Translate Input Method](https://github.com/mojinmopin-art/translate-input-method) - Multilingual typing tool
+- [Immersive Translate Patch](https://github.com/mojinmopin-art/immersive-translate-en-zh-patch) - Bilingual translation fix
